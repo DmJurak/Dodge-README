@@ -27,6 +27,18 @@
 | MPTBluetoothScripts |  | https://github.com/ABB-MO-MPT/MPTBluetoothScripts |
 
 
+
+## Dodge Touch Tester
+
+| Repository | Description | Url |
+|---|---|---|
+| dodge-report-generator |  | https://github.com/ABB-MO-MPT/dodge-report-generator |
+| ABBTouchTester |  | https://github.com/ABB-MO-MPT/ABBTouchTester |
+| ExternalDevices |  | https://github.com/ABB-MO-MPT/ExternalDevices |
+| ABBMotionLibrary |  | https://github.com/ABB-MO-MPT/-ABBMotionLibrary |
+| ABBMotionAPI |  | https://github.com/ABB-MO-MPT/ABBMotionAPI |
+
+
 ## Data repositories 
 
 | Repository | Description | Url |
