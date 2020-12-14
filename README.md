@@ -43,6 +43,9 @@
 
 | Repository | Description | Url |
 |---|---|---|
-|  |  |  |
-|  |  |  |
+| measurements-TAF |  | https://github.com/ABB-MO-MPT/measurements-TAF |
+| measurements-ISAF |  | https://github.com/ABB-MO-MPT/measurements-ISAF |
+| measurements-SC |  | https://github.com/ABB-MO-MPT/measurements-SC |
+| measurements-S2 |  | https://github.com/ABB-MO-MPT/measurements-S2 |
+| measurements-IMP |  | https://github.com/ABB-MO-MPT/measurements-IMP |
 
