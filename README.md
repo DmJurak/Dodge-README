@@ -25,6 +25,7 @@
 | aspl_bootloader |  | https://github.com/ABB-MO-MPT/aspl_bootloader |
 | EdwinWarrantyReport |  | https://github.com/ABB-MO-MPT/EdwinWarrantyReport |
 | MPTBluetoothScripts |  | https://github.com/ABB-MO-MPT/MPTBluetoothScripts |
+| Bearing_fault_analysis_ML |  | https://github.com/ABB-MO-MPT/Bearing_fault_analysis_ML |
 
 
 
@@ -49,3 +50,21 @@
 | measurements-S2 |  | https://github.com/ABB-MO-MPT/measurements-S2 |
 | measurements-IMP |  | https://github.com/ABB-MO-MPT/measurements-IMP |
 
+
+## Augmented Reality
+| Repository | Description | Url |
+|---|---|---|
+| SmartSensor-Unity |  | https://github.com/ABB-MO-MPT/SmartSensor-Unity |
+| Analyzer-API |  | https://github.com/ABB-MO-MPT/Analyzer-API |
+| MotorsApp-Android |  | https://github.com/ABB-MO-MPT/MotorsApp-Android |
+| MPT-3D-Android |  | https://github.com/ABB-MO-MPT/MPT-3D-Android |
+| SS4MB-Android |  | https://github.com/ABB-MO-MPT/SS4MB-Android |
+| SmartLibrary-Android |  | https://github.com/ABB-MO-MPT/SmartLibrary-Android |
+| ARVI-Unity-App |  | https://github.com/ABB-MO-MPT/ARVI-Unity-App |
+| rcnnmasks-PyPI |  | https://github.com/ABB-MO-MPT/rcnnmasks-PyPI |
+| Tasks-API |  | https://github.com/ABB-MO-MPT/Tasks-API |
+| Glasses-App |  | https://github.com/ABB-MO-MPT/Glasses-App |
+| Smart-Library-Core |  | https://github.com/ABB-MO-MPT/Smart-Library-Core |
+| Object-Detection-Dataset-Prep |  | https://github.com/ABB-MO-MPT/Object-Detection-Dataset-Prep |
+| Object-Detection-API |  | https://github.com/ABB-MO-MPT/Object-Detection-API |
+| ObjectDetectionDeploy |  | https://github.com/ABB-MO-MPT/ObjectDetectionDeploy |
