@@ -26,7 +26,7 @@
 | EdwinWarrantyReport |  | https://github.com/ABB-MO-MPT/EdwinWarrantyReport |
 | MPTBluetoothScripts |  | https://github.com/ABB-MO-MPT/MPTBluetoothScripts |
 | Bearing_fault_analysis_ML |  | https://github.com/ABB-MO-MPT/Bearing_fault_analysis_ML |
-
+| Laboratory data uploader |  | https://github.com/ABB-MO-MPT/LaboratoryUploader |
 
 
 ## Dodge Touch Tester
