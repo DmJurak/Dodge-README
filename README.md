@@ -68,6 +68,11 @@
 | Object-Detection-Dataset-Prep |  | https://github.com/ABB-MO-MPT/Object-Detection-Dataset-Prep |
 | Object-Detection-API |  | https://github.com/ABB-MO-MPT/Object-Detection-API |
 | ObjectDetectionDeploy |  | https://github.com/ABB-MO-MPT/ObjectDetectionDeploy |
-| MPTBluetoothScripts |  | https://github.com/ABB-MO-MPT/MPTBluetoothScripts |
+
+
 ## BLE Test Scripts
+| Repository | Description | Url |
+|---|---|---|
+| MPTBluetoothScripts |  | https://github.com/ABB-MO-MPT/MPTBluetoothScripts |
+
 
