@@ -27,6 +27,7 @@
 | MPTBluetoothScripts |  | https://github.com/ABB-MO-MPT/MPTBluetoothScripts |
 | Bearing_fault_analysis_ML |  | https://github.com/ABB-MO-MPT/Bearing_fault_analysis_ML |
 | Laboratory data uploader |  | https://github.com/ABB-MO-MPT/LaboratoryUploader |
+| Xamarin Sensor Scanner |   |  https://github.com/ABB-MO-MPT/xamarin-sensor-scanner |
 
 
 ## Dodge Touch Tester
