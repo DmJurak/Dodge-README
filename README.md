@@ -1,5 +1,11 @@
 # Dodge-README
 
+## Threat model
+
+| Repository | Description | Url |
+|---|---|---|
+| DodgeThreatModel | Threat model | https://github.com/Dodge-MPTC/DodgeThreatModel |
+
 ## Firmware repositories 
 
 | Repository | Description | Url |
