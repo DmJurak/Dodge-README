@@ -34,6 +34,8 @@
 | Bearing_fault_analysis_ML |  | https://github.com/ABB-MO-MPT/Bearing_fault_analysis_ML |
 | Laboratory data uploader |  | https://github.com/ABB-MO-MPT/LaboratoryUploader |
 | Xamarin Sensor Scanner |   |  https://github.com/ABB-MO-MPT/xamarin-sensor-scanner |
+| Gateway Provisioning app |   |  https://github.com/ABB-MO-MPT/DodgeProvisioning |
+| Sensor Provisioning app |   |  https://github.com/ABB-MO-MPT/SensorProvisioning |
 
 
 ## Dodge Touch Tester
